@@ -1,0 +1,9 @@
+webpack
+1. babel - транспілятор, переводить оі код на певну версію
+2. scss
+3. 2 modes
+    -dev
+    dev server, source map, eslint, not minifiend js & css
+    -prod
+    minified  code
+git
